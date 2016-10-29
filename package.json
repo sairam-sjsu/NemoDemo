@@ -1,0 +1,21 @@
+{
+  "name": "NemoDemo",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.15.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "winston": "*"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2",
+    "nemo": "^2.3.1",
+    "nemo-view": "^2.1.1",
+    "nemo-screenshot": "2.2.1",
+    "chance": "1.0.4"
+  }
+}

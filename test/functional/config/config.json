@@ -1,0 +1,20 @@
+{
+  "plugins": {
+    "cookie": {
+      "module": "path:plugin/nemo-cookie"
+    },
+    "view": {
+      "module": "nemo-view",
+      "arguments": [
+        "path:locator"
+      ]
+    }
+  },
+  "driver": {
+    "browser": "chrome"
+  },
+  "data": {
+    "baseUrl": "https://www.paypal.com",
+    "signupUrl": "https://www.paypal.com/signup/email_password?force_consumersignup=1"
+  }
+}

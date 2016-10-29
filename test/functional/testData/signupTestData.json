@@ -1,0 +1,12 @@
+{
+  "empty": "",
+  "email": "x@y.com",
+  "newEmail": "abc@xyz.com",
+  "password": "sjsucmpe287",
+  "confirmPassword": "sjsucmpe287",
+  "invalidEmail": "xyz.com",
+  "invalidPassword": "abcdef",
+  "seqofCharacters": "ssssab1d",
+  "phoneNumber": "1234567891",
+  "invalidPhoneNumber": "23423423"
+}

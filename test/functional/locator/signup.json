@@ -1,0 +1,38 @@
+{
+  "signupButton": {
+    "locator": "signup-button",
+    "type": "id"
+  },
+  "ctaButton": {
+    "locator": "cta-btn",
+    "type": "id"
+  },
+  "email": {
+    "locator": "paypalAccountData.email",
+    "type": "id"
+  },
+  "password": {
+    "locator": "paypalAccountData.password",
+    "type": "id"
+  },
+  "confirmPassword": {
+    "locator": "paypalAccountData.confirmPassword",
+    "type": "id"
+  },
+  "nextButton": {
+    "locator": "next",
+    "type": "id"
+  },
+  "errorMessageSpan": {
+    "locator": ".FloatingLabel__hasGroup___1CvZK",
+    "type": "css"
+  },
+  "phoneNumber": {
+    "locator": "paypalAccountData.phoneNumber",
+    "type": "id"
+  },
+  "zip": {
+    "locator": "paypalAccountData.address.zip",
+    "type": "id"
+  }
+}

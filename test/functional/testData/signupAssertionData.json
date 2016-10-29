@@ -1,0 +1,7 @@
+{
+  "emailErrorMsg": "Make sure your email address is correct.",
+  "passwordCriteriaErrorMsg": "8 characters or longer.\nAt least one number or symbol (like !@#$%^).",
+  "passwordSequenceErrorMsg": "Do not use 4 or more consecutive repeated characters (like 1111).",
+  "confirmPasswordErrorMsg": "Your passwords don't match. Please retype your password to confirm it.",
+  "phoneNumberErrorMsg": "Phone number must be 10 digits."
+}
