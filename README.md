@@ -1,6 +1,8 @@
 # NemoDemo
 Basic Nemo Setup to test web apps
 
+do  $npm install to install all dependencies
+
 Use below command to run all suites
 
 
