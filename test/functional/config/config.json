@@ -11,7 +11,7 @@
     }
   },
   "driver": {
-    "browser": "chrome"
+    "browser": "firefox"
   },
   "data": {
     "baseUrl": "https://www.paypal.com",
